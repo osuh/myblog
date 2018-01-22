@@ -1,0 +1,54 @@
+body
+{
+    margin: auto;
+    width: 60%;
+}
+
+.logo
+{
+    margin-bottom: 30px;
+}
+
+.logo a
+{
+    color: #348899;
+}
+
+.logo a:hover
+{
+    text-decoration: none;
+    color: #348899;
+}
+
+.container
+{
+    margin-left: 30px;
+}
+.article-container p
+{
+    font-size: 18px;
+}
+
+.article-container h3 a
+{
+    color: #333333;
+}
+
+.article-container h3 a:hover
+{
+    color: #348899;
+    text-decoration: none;
+}
+
+.footer
+{
+    background-color: #193441;
+    margin-top: 30px;
+}
+.footer p
+{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    color: #FCFFF5;
+}
